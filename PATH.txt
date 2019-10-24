@@ -1,0 +1,10 @@
+{
+    "DIR_ROOT":"./",
+    "FILE_ENVPATH":"PATH.txt",
+    "PKG_DATAIO":"DataIO",
+    "PKG_BASECLASSES":"BaseClasses",
+    "PKG_FEATUREENGINEERING":"FeatureEngineering",
+    "PKG_MODEL":"Model",
+    "DIR_RES":"RES/"
+    "FILE_CONFIG":"CONFIG.txt" 
+}
