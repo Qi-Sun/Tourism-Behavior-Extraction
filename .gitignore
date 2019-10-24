@@ -108,3 +108,6 @@ CONFIG.txt
 
 #Workspace
 Workspace/
+
+# Pycharm
+.idea/
